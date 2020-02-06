@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EXP9</string>
+    <string name="payment_prompt">Choose Payment Period In month</string>
+
+    <string-array name="Payment_Period">
+        <item>Choose Payment Period (In month)</item>
+        <item>3</item>
+        <item>6</item>
+        <item>12</item>
+        <item>18</item>
+    </string-array>
+
+</resources>
